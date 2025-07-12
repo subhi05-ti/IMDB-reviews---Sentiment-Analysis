@@ -18,6 +18,7 @@ This project demonstrates:
 ---
 
 ## Dataset
+- Dataset URL: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 - **Content**: 50,000 movie reviews (40,000 for training, 10,000 for testing).
 
 ---
